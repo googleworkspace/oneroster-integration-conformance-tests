@@ -6,7 +6,7 @@ This repository contains a test suite that can help validate if your product mee
 *Note: This is separate from [1EdTech’s conformance testing](https://www.imsglobal.org/ims-oneroster-v11-final-conformance-guide) and does not grant any certification for conformance.*
 
 ## How to run
-The test suite can be downloaded and run using [Jupyter notebook](https://docs.jupyter.org/en/latest/running.html) or can be uploaded to [Google Colab](https://colab.sandbox.google.com/). 
+View directly in [Google Colab](https://colab.research.google.com/github/googleworkspace/oneroster-integration-conformance-tests/blob/main/oneroster_1_1_test_suite.ipynb) OR download and run using [Jupyter notebook](https://docs.jupyter.org/en/latest/running.html). 
 
 Before you run the tests, you will need:
 
