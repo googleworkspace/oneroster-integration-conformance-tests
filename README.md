@@ -23,7 +23,7 @@ There are three main sections:
 * Grading Categories (for import)
 * Grading Periods (for import)
 
-All sections are **required**.
+Some tests are marked as "(Optional / Cleanup)". If a test is not marked as "(Optional / Cleanup)", then it is required.
 
 The notebook is structured so that each cell can be run and tested individually for easy development. However, when you are ready to submit results to Google, it is preferable to run all of the tests at once for a fully generated test report. Both Jupyter notebook and Colab allow you to run all cells.
 
