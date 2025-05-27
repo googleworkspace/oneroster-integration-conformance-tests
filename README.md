@@ -6,14 +6,14 @@ This repository contains test suites that will validate if your product meets th
 *Note: This is separate from [1EdTech’s conformance testing](https://www.1edtech.org/standards/oneroster/conformance-testing) and does not grant any certification for conformance.*
 
 ## OneRoster Versions
-Only ONE version is necessary. **Strong preference** for OneRoster 1.2 if possible. Please email us if that is not feasible.
+We only accept conformance with the OneRoster 1.2 test suite and no longer accept the OneRoster 1.1 test suite.
 
 ### OneRoster 1.2
 [Google Colab Direct Link](https://colab.research.google.com/github/googleworkspace/oneroster-integration-conformance-tests/blob/main/oneroster_1_2_test_suite.ipynb)
 
 [OneRoster 1.2](https://www.imsglobal.org/spec/oneroster/v1p2) Specification
 
-### OneRoster 1.1
+### [Deprecated] OneRoster 1.1
 [Google Colab Direct Link](https://colab.research.google.com/github/googleworkspace/oneroster-integration-conformance-tests/blob/main/oneroster_1_1_test_suite.ipynb)
 
 [OneRoster 1.1](https://www.imsglobal.org/node/151081) Specification
@@ -23,7 +23,7 @@ Only ONE version is necessary. **Strong preference** for OneRoster 1.2 if possib
 Before you begin, you will need:
 
 * Token URL to retrieve OAuth 2 credentials
-* One Roster URL ending in /ims/oneroster/v1p2 or /ims/oneroster/v1p1
+* One Roster URL ending in /ims/oneroster/v1p2
 * Client ID
 * Client secret
 * A teacher email address
