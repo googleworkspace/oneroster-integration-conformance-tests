@@ -35,4 +35,4 @@ All sections are **required** unless otherwise stated.
 The notebook is structured so that each cell can be run and tested individually for easy development. However, when you are ready to submit results to Google, it is preferable to run all of the tests at once for a fully generated test report. Both Jupyter notebook and Colab allow you to run all cells.
 
 ## How to submit results
-Once you have a fully generated test report, download or screenshot the results. Email the downloaded file or screenshot to [classroom-sis-external@google.com](mailto:classroom-sis-external@google.com). 
+Once you have a fully generated test report, share it with your contacts on the Google Classroom team.
